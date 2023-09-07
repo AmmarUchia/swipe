@@ -774,7 +774,7 @@ p {
   width: 100%;
 }
 
-.footer .col #credits-a-dev:hover {
+.footer .col a:hover {
   color: var(--purple-1);
   text-decoration: none;
 }
