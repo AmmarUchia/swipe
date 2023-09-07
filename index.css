@@ -733,6 +733,7 @@ p {
 
 .footer .section-container {
   display: flex;
+  justify-content: center;
 }
 
 #footer-logo {
@@ -741,7 +742,7 @@ p {
 }
 
 .footer .col {
-  width: 25%;
+  width: 20%;
 }
 
 .footer .col ul {
@@ -774,6 +775,7 @@ p {
 }
 
 .footer .col #credits-a-dev:hover {
+  color: var(--purple-1);
   text-decoration: none;
 }
 
